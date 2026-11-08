@@ -15,7 +15,7 @@ google-auth==1.11.0       # via kubernetes
 idna==2.8                 # via requests
 kubernetes==10.0.1
 nnpy-bundle==1.4.2.post0
-oauthlib==3.1.0           # via requests-oauthlib
+oauthlib==4.0.1           # via requests-oauthlib
 psutil==5.6.7
 pyasn1-modules==0.2.8     # via google-auth
 pyasn1==0.4.8             # via pyasn1-modules, rsa
